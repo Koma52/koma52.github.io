@@ -1,26 +1,38 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: Paper Theme
+description: > # this means to ignore newlines until "baseurl:"
+  A gentle theme for Jekyll utilising material design.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: false
+# Build settings
+markdown: kramdown
+paginate: 5 # pagination based on number of posts
+paginate_path: "page/:num"
+highlighter: pygments
+gems: [jekyll-paginate, jekyll-coffeescript]
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+# comments
+disqus: # add disqus shortname here
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# author info
+# add your appropriate info here
+author: # your name
+bio:    # your bio
+email:
+email_md5: # md5 hash of your email
+twitter_username:
+github_username:
 
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+# Theming options
+# These settings are mandatory.
+theme:              'blue-pink'
+# drawer theming
+drawer:
+  text_color:       'grey-600'
+  header_color:     'blue-500'
+  navigation_color: 'grey-200'
+# footer theming
+footer:
+  text_color: 'blue-grey-200'
+  color: 'blue-grey-600'

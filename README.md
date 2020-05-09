@@ -1,42 +1,35 @@
-# Paper for Jekyll
-A new material design utilising theme for your Jekyll blog. Built on [Material Design Lite](http://www.getmdl.io/).
+[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame)
 
-![screenshot](assets/screenshots/mockup.jpg)
+# jekyll-simple
 
-## Demo
- [dbtek.github.io/paper-demo](http://dbtek.github.io/paper-demo)
+## simple
+simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
 
-### Batteries Included
-There are many cool features bundled with Paper such as:
+Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
 
-- Full Github Pages support.
-- Responsive layout.
-- Dynamic search with [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search/).
-- Customizable theme colors.
-- Sass variables.
-- RSS feed.
-- Post tags and categories.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
+Supposedly, this could work with Japanese as well but never had a chance to try.
 
-### Tech
-Under the hood Paper contains:  
-- Material Design Lite.
-- CoffeeScript.
-- Sass.
+## Story behind this theme
 
-### Install
-Easiest way of getting Paper work is forking.
+It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
 
-- Fork the [repo](https://github.com/dbtek/paper).
-- Rename forked repo as `username.github.io`.
-- Set up blog by editing `_config.yml`.
-- Enjoy.
+iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
 
-### Author
-Ismail Demirbilek
-[@dbtek](https://twitter.com/dbtek)
+So mobile goes first, then the macOS.
 
-### License
-[MIT](http://opensource.org/licenses/MIT)
+## ^-^
+
+You can click the button [Say Thanks!](https://saythanks.io/to/wild-flame) at the first of README if you use/like my project. :D
+
+Thanks you guys, I got a lot of thanks from people.
+
+- [ryan](https://saythanks.io/note/a9a342ba-e9aa-4707-b169-05b6ae49757d)
+- [Daniel Moore](https://saythanks.io/note/da81706c-8884-4dbc-89b0-eed242ac3b19) and feel free to visit his work [border quiz](http://danielmoore.us/borders-quiz?singapore-planning-areas)
+- [David Laing](https://saythanks.io/note/fb5d24eb-3be8-4f92-842b-c6dd7ce4c239)
+- [Meg](https://saythanks.io/note/6d56e228-e17c-4641-9524-9f9fd6205068)
+
+![image](https://user-images.githubusercontent.com/4491950/53502929-0d375880-3aea-11e9-9ce1-13eba2ec4643.png)
+
+- And more
+
+![image](https://user-images.githubusercontent.com/4491950/53502875-e1b46e00-3ae9-11e9-97e4-d70d038a36e9.png)

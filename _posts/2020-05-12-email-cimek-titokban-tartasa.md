@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  E-mail címek titokban tartása
-category: privacy email 
+category: privacy, email 
 description: Manapság nagyon sokan használnak email fiókokat levelezéshez, ügyintézéshez, kapcsolattartáshoz és még ki tudja mihez. Különböző intézmények is követik ezt szokást, azonban sokszor nem foglalkoznak az ügyfeleik adatbiztonságával. 
 ---
 
